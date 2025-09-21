@@ -12,24 +12,30 @@ Given `Nand`, implement the following gates:
 
 ### Elementary Gates
 
-1. [Not](./1-elementary-logic-gates/Not.hdl)
-2. [And](./1-elementary-logic-gates/And.hdl)
-3. [Or](./1-elementary-logic-gates/Or.hdl)
-4. [Xor](./1-elementary-logic-gates/Xor.hdl)
-5. [Mux](./1-elementary-logic-gates/Mux.hdl)
-6. [DMux](./1-elementary-logic-gates/DMux.hdl)
+1. [Not](./project-1/Not.hdl)
+2. [And](./project-1/And.hdl)
+3. [Or](./project-1/Or.hdl)
+4. [Xor](./project-1/Xor.hdl)
+5. [Mux](./project-1/Mux.hdl)
+6. [DMux](./project-1/DMux.hdl)
 
 ### 16-bit Variants
 
-1. [Not16](./1-elementary-logic-gates/Not16.hdl)
-2. [And16](./1-elementary-logic-gates/And16.hdl)
-3. [Or16](./1-elementary-logic-gates/Or16.hdl)
-4. [Mux16](./1-elementary-logic-gates/Mux16.hdl)
+1. [Not16](./project-1/Not16.hdl)
+2. [And16](./project-1/And16.hdl)
+3. [Or16](./project-1/Or16.hdl)
+4. [Mux16](./project-1/Mux16.hdl)
 
 ### Multi-way variants
 
-1. [Or8Way](./1-elementary-logic-gates/Or8Way.hdl)
-2. [Mux4Way16](./1-elementary-logic-gates/Mux4Way16.hdl)
-3. [Mux8Way16](./1-elementary-logic-gates/Mux8Way16.hdl)
-4. [DMux4Way](./1-elementary-logic-gates/DMux4Way.hdl)
-5. [DMux8Way](./1-elementary-logic-gates/DMux8Way.hdl)
+1. [Or8Way](./project-1/Or8Way.hdl)
+2. [Mux4Way16](./project-1/Mux4Way16.hdl)
+3. [Mux8Way16](./project-1/Mux8Way16.hdl)
+4. [DMux4Way](./project-1/DMux4Way.hdl)
+5. [DMux8Way](./project-1/DMux8Way.hdl)
+
+## Project Two, Boolean Arithmetic and the ALU
+
+1. [Half Adder](./project-2/HalfAdder.hdl)
+2. [Full Adder](./project-2/FullAdder.hdl)
+3. [16-bit Adder](./project-2/Add16.hdl)
