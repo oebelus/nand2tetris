@@ -28,8 +28,8 @@ Given `Nand`, implement the following gates:
 
 ### Multi-way variants
 
-1. [Or8Way]
-2. [Mux4Way16]
-3. [Mux8Way16]
-4. [DMux4Way]
-5. [DMux8Way]
+1. [Or8Way](./1-elementary-logic-gates/Or8Way.hdl)
+2. [Mux4Way16](./1-elementary-logic-gates/Mux4Way16.hdl)
+3. [Mux8Way16](./1-elementary-logic-gates/Mux8Way16.hdl)
+4. [DMux4Way](./1-elementary-logic-gates/DMux4Way.hdl)
+5. [DMux8Way](./1-elementary-logic-gates/DMux8Way.hdl)
