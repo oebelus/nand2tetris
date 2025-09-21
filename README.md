@@ -2,7 +2,7 @@
 
 This is a repository of my solutions to the nand2tetris projects and problems.
 
-## Project One: Combinatory Logic
+## Project One, Combinatory Logic
 
 Language is HDL, using this [emulator](https://nand2tetris.github.io/web-ide/chip/);
 
@@ -12,19 +12,19 @@ Given `Nand`, implement the following gates:
 
 ### Elementary Gates
 
-1. [Not](./Elementary%20Logic%20Gates/Not.hdl)
-2. [And](./Elementary%20Logic%20Gates/And.hdl)
-3. [Or](./Elementary%20Logic%20Gates/Or.hdl)
-4. [Xor](./Elementary%20Logic%20Gates/Xor.hdl)
-5. [Mux](./Elementary%20Logic%20Gates/Mux.hdl)
-6. [DMux](./Elementary%20Logic%20Gates/DMux.hdl)
+1. [Not](./1-elementary-logic-gates/Not.hdl)
+2. [And](./1-elementary-logic-gates/And.hdl)
+3. [Or](./1-elementary-logic-gates/Or.hdl)
+4. [Xor](./1-elementary-logic-gates/Xor.hdl)
+5. [Mux](./1-elementary-logic-gates/Mux.hdl)
+6. [DMux](./1-elementary-logic-gates/DMux.hdl)
 
 ### 16-bit Variants
 
-1. [Not16]
-2. [And16]
-3. [Or16]
-4. [Mux16]
+1. [Not16](./1-elementary-logic-gates/Not16.hdl)
+2. [And16](./1-elementary-logic-gates/And16.hdl)
+3. [Or16](./1-elementary-logic-gates/Or16.hdl)
+4. [Mux16](./1-elementary-logic-gates/Mux16.hdl)
 
 ### Multi-way variants
 
