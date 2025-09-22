@@ -39,3 +39,4 @@ Given `Nand`, implement the following gates:
 1. [Half Adder](./project-2/HalfAdder.hdl)
 2. [Full Adder](./project-2/FullAdder.hdl)
 3. [16-bit Adder](./project-2/Add16.hdl)
+4. [16-bit incrementer](./project-2/Inc16.hdl)
